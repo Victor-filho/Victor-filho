@@ -21,6 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorfilho2010/)
 
 ![victor filho GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-filho&show_icons=true&theme=gotham)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-filho&size_weight=0.5&count_weight=0.5)
 
 ## 🔥 Skills
