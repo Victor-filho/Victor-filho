@@ -8,7 +8,7 @@
 
   📚 Atualmente estudo em uma escola estadual, no RJ. Tenho 14 anos e estou no 8º ano escolar.
 
-  🎮 Estou estudando bastante para um dia virar um desenvolvedor web acima da media.
+  🎮 Estou estudando bastante para um dia virar um desenvolvedor web.
 </p>
 <details>
   <summary>👨‍💻 Um pouco sobre mim</summary>
