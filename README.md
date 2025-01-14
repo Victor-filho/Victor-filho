@@ -1,12 +1,12 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Ola Mundo</h1></summary>
 </div>
     
 <p>
-  👋 Ola, eu sou Victor! Sou um jovem com grande apreço pela área de informa]ática, e programacão.
+  👋 Ola, eu sou Victor! Sou um jovem com grande apreço pela área de informática, e programacão.
 
-  📚 Atualmente estudo em uma escola estadual, no RJ. Tenho 14 anos e estou no 8º ano escolar.
+  📚 Atualmente estudo em uma escola estadual, no RJ. Tenho 14 anos e estou no 9º ano escolar.
 
   🎮 Estou estudando bastante para um dia virar um desenvolvedor web.
 </p>
